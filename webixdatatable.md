@@ -1,4 +1,0 @@
-# webixdevelopment
-# url
-# save
-# pagination
